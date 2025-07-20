@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CpfValidatorAPI", "CpfValidatorAPI\CpfValidatorAPI.csproj", "{1F0D19BD-AF00-40A5-A3C3-B227B091D383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpfValidatorAPI.Tests", "CpfValidatorAPI.Tests\CpfValidatorAPI.Tests.csproj", "{3C56D18A-AFC8-4F3D-93D2-09D837939FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0D19BD-AF00-40A5-A3C3-B227B091D383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0D19BD-AF00-40A5-A3C3-B227B091D383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0D19BD-AF00-40A5-A3C3-B227B091D383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0D19BD-AF00-40A5-A3C3-B227B091D383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C56D18A-AFC8-4F3D-93D2-09D837939FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C56D18A-AFC8-4F3D-93D2-09D837939FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C56D18A-AFC8-4F3D-93D2-09D837939FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C56D18A-AFC8-4F3D-93D2-09D837939FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4892CFA-D714-4129-8011-1C38B49B3021}
+	EndGlobalSection
+EndGlobal
